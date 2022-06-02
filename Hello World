@@ -1,0 +1,3 @@
+Console.WriteLine("Hello World!");
+Console.WriteLine("I'm just starting with coding in C#");
+Console.WriteLine("I really can't do much with this...");
